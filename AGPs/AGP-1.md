@@ -76,13 +76,11 @@ Proposals made to the Proclamations track must be consistent with the Aragon Man
 * E.g. “The Aragon Network declares February 10th to be Aragon Day.”
 
 **Flock**  
-Proposals made to the Flock track must be submitted by teams wanting to join the Flock program. They must be submitted to the AGP repository at least two weeks before the beginning of Stage IV at 16:00 UTC time.
+Proposals made to the Flock track must be submitted by teams wanting to join the Flock program. They must be submitted to the AGP repository at least two weeks before the beginning of Stage IV at 16:00 UTC time. The reason for the extra time required is that Flock proposals are demanding on time and attention to shape up, requiring significant preparation and engagement. More information on the Flock program can be found in the Flock section of the Aragon Wiki.
 
-Any Flock proposal needs to be approved by the Aragon Association before it can be moved to Stage IV by AGP Editors. In order to approve a Flock Track proposal, the Aragon Association will create a PR consisting in a PGP signature with a SHA-256 hash of the raw application text at the time of approval.
+Any Flock proposal needs to be approved by the Aragon Association before it can be moved to Stage IV by AGP Editors. In order to approve a Flock track proposal, the Aragon Association will create a pull request adding to it a PGP signature of the SHA-256 hash of the raw application text along with a link to the proposal's GitHub commit at the time of approval.
 
-Flock proposals are demanding to shape up and require a significant preparation and engagement. More information on the Flock program can be found in the Flock section of the Aragon Wiki.
-
-AGPs submitted to the Flock Track and approved by ANT holders remain subject to the Aragon Flock program policies. The Flock program is facilitated by the Aragon Association.
+AGPs submitted to the Flock track and approved by ANT holders remain subject to the Aragon Flock program policies. The Flock program is facilitated by the Aragon Association.
 
 ### Stage II: Pre-proposal
 During Stage II you should seek feedback on your AGP idea by sharing it with your peers in the Aragon community and soliciting their feedback. Examples of appropriate venues to share your AGP idea include:
